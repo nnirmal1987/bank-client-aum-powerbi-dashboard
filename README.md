@@ -3,7 +3,7 @@ Power BI dashboard analyzing banking client portfolios, account balances, and se
 
 # Bank Client AUM Dashboard (Power BI)
 
-📊 **Project Overview**
+## 📊 **Project Overview**
 
 This project analyzes client relationships, portfolio performance, and assets under management (AUM) for a banking scenario. (Simulated synthetic data)
 
@@ -13,7 +13,7 @@ The goal was to design an executive dashboard providing insights into:
 - Portfolio distribution
 - Advisor performance
 
-⚙️ **Data Preparation /Modelling** 
+## ⚙️ **Data Preparation /Modelling** 
 
 A many-to-many relationship exists between Clients and Accounts.
 
@@ -21,7 +21,7 @@ To handle this, a bridge table (AccountClientLink) was used.
 
 Portfolio → Client → AccountClientLink → Account
 
-🔑 **KPIs / Key Metrics /**
+## 🔑 **KPIs / Key Metrics **
 
 - Total AUM
 - Existing Clients
@@ -59,7 +59,7 @@ Portfolio → Client → AccountClientLink → Account
 
 
 
-Key Findings and Insights
+## Key Findings and Insights
 
 ##########################
 
