@@ -21,7 +21,7 @@ To handle this, a bridge table (AccountClientLink) was used.
 
 Portfolio → Client → AccountClientLink → Account
 
-## 🔑 **KPIs / Key Metrics **
+## 🔑 KPIs / Key Metrics
 
 - Total AUM
 - Existing Clients
@@ -60,8 +60,7 @@ Portfolio → Client → AccountClientLink → Account
 
 
 ## Key Findings and Insights
-
-##########################
+   ##########################
 
 <img width="1307" height="728" alt="image" src="https://github.com/user-attachments/assets/328b824e-89df-43a3-84c2-45cc2aa14ad0" />
 
