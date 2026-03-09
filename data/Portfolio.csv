@@ -1,0 +1,201 @@
+﻿YYYYMM,EMPLOYEE_STATUS,PORTFOLIO_ID,GROUP,ADVISOR_ID,ADVISOR_NAME,REGION_NAME,MARKET_NAME,EMPLOYEE_TENURE,ADVISOR_LEVEL
+202512,Active,P0001,Platinum,AD0001,Advisor_1,BC,Vancouver,15,5
+202512,Active,P0002,basic,AD0002,Advisor_2,Quebec,Quebec City,4,2
+202512,Active,P0003,basic,AD0003,Advisor_3,Ontario,Toronto,8,2
+202512,Active,P0004,basic,AD0004,Advisor_4,Alberta,Calgary,3,2
+202512,Active,P0005,Platinum,AD0005,Advisor_5,BC,Victoria,23,4
+202512,Active,P0006,Platinum,AD0006,Advisor_6,Ontario,Ottawa,23,5
+202512,Active,P0007,Platinum,AD0007,Advisor_7,Ontario,Toronto,16,3
+202512,Active,P0008,basic,AD0008,Advisor_8,Alberta,Edmonton,2,2
+202512,Active,P0009,basic,AD0009,Advisor_9,BC,Vancouver,6,2
+202512,Active,P0010,basic,AD0010,Advisor_10,BC,Victoria,9,1
+202512,Active,P0011,Platinum,AD0011,Advisor_11,Ontario,Mississauga,18,3
+202512,Active,P0012,basic,AD0012,Advisor_12,Ontario,Mississauga,5,1
+202512,Active,P0013,basic,AD0013,Advisor_13,Alberta,Red Deer,4,2
+202512,Active,P0014,Platinum,AD0014,Advisor_14,Alberta,Red Deer,17,5
+202512,Active,P0015,Platinum,AD0015,Advisor_15,BC,Vancouver,15,3
+202512,Active,P0016,Platinum,AD0016,Advisor_16,Quebec,Montreal,17,5
+202512,Active,P0017,Platinum,AD0017,Advisor_17,BC,Vancouver,21,4
+202512,Active,P0018,basic,AD0018,Advisor_18,Ontario,Mississauga,6,2
+202512,Active,P0019,basic,AD0019,Advisor_19,BC,Victoria,3,2
+202512,Active,P0020,Platinum,AD0020,Advisor_20,Quebec,Montreal,22,4
+202512,Active,P0021,basic,AD0021,Advisor_21,Alberta,Red Deer,2,1
+202512,Active,P0022,Platinum,AD0022,Advisor_22,Quebec,Quebec City,28,3
+202512,Active,P0023,Platinum,AD0023,Advisor_23,Quebec,Quebec City,26,3
+202512,Active,P0024,Platinum,AD0024,Advisor_24,Quebec,Quebec City,15,5
+202512,Active,P0025,basic,AD0025,Advisor_25,Alberta,Calgary,3,1
+202512,Active,P0026,basic,AD0026,Advisor_26,Quebec,Montreal,3,2
+202512,Active,P0027,Platinum,AD0027,Advisor_27,Quebec,Quebec City,15,3
+202512,Active,P0028,basic,AD0028,Advisor_28,Quebec,Montreal,5,2
+202512,Active,P0029,basic,AD0029,Advisor_29,Ontario,Mississauga,3,2
+202512,Active,P0030,Platinum,AD0030,Advisor_30,Quebec,Montreal,19,3
+202512,Active,P0031,basic,AD0031,Advisor_31,Alberta,Edmonton,1,2
+202512,Active,P0032,Platinum,AD0032,Advisor_32,Quebec,Montreal,19,4
+202512,Active,P0033,Platinum,AD0033,Advisor_33,Quebec,Quebec City,17,5
+202512,Active,P0034,basic,AD0034,Advisor_34,Alberta,Red Deer,1,2
+202512,Active,P0035,basic,AD0035,Advisor_35,Quebec,Montreal,5,2
+202512,Active,P0036,basic,AD0036,Advisor_36,Alberta,Calgary,7,2
+202512,Active,P0037,Platinum,AD0037,Advisor_37,Quebec,Montreal,17,3
+202512,Active,P0038,Platinum,AD0038,Advisor_38,Alberta,Edmonton,23,4
+202512,Active,P0039,basic,AD0039,Advisor_39,Quebec,Quebec City,6,2
+202512,Active,P0040,basic,AD0040,Advisor_40,Quebec,Quebec City,3,2
+202512,Active,P0041,Platinum,AD0041,Advisor_41,Ontario,Toronto,22,4
+202512,Active,P0042,basic,AD0042,Advisor_42,Ontario,Ottawa,6,2
+202512,Active,P0043,Platinum,AD0043,Advisor_43,Quebec,Montreal,16,5
+202512,Active,P0044,basic,AD0044,Advisor_44,Quebec,Quebec City,2,1
+202512,Active,P0045,Platinum,AD0045,Advisor_45,BC,Vancouver,15,4
+202512,Active,P0046,basic,AD0046,Advisor_46,Alberta,Calgary,1,2
+202512,Active,P0047,Platinum,AD0047,Advisor_47,BC,Vancouver,25,3
+202512,Active,P0048,basic,AD0048,Advisor_48,Ontario,Ottawa,7,2
+202512,Active,P0049,basic,AD0049,Advisor_49,Ontario,Ottawa,7,1
+202512,Active,P0050,Platinum,AD0050,Advisor_50,Ontario,Ottawa,17,4
+202512,Active,P0051,basic,AD0051,Advisor_51,Ontario,Toronto,9,2
+202512,Active,P0052,basic,AD0052,Advisor_52,Quebec,Quebec City,7,2
+202512,Active,P0053,basic,AD0053,Advisor_53,Ontario,Ottawa,4,1
+202512,Active,P0054,basic,AD0054,Advisor_54,Quebec,Montreal,4,1
+202512,Active,P0055,basic,AD0055,Advisor_55,Quebec,Montreal,8,1
+202512,Active,P0056,basic,AD0056,Advisor_56,Ontario,Toronto,3,2
+202512,Active,P0057,Platinum,AD0057,Advisor_57,Ontario,Ottawa,29,5
+202512,Active,P0058,Platinum,AD0058,Advisor_58,Alberta,Calgary,16,4
+202512,Active,P0059,Platinum,AD0059,Advisor_59,BC,Vancouver,29,5
+202512,Active,P0060,Platinum,AD0060,Advisor_60,Ontario,Toronto,17,4
+202512,Active,P0061,Platinum,AD0061,Advisor_61,Alberta,Edmonton,24,3
+202512,Active,P0062,Platinum,AD0062,Advisor_62,Alberta,Red Deer,28,5
+202512,Active,P0063,basic,AD0063,Advisor_63,BC,Victoria,6,1
+202512,Active,P0064,Platinum,AD0064,Advisor_64,Quebec,Quebec City,24,4
+202512,Active,P0065,Platinum,AD0065,Advisor_65,Ontario,Mississauga,15,4
+202512,Active,P0066,basic,AD0066,Advisor_66,BC,Vancouver,6,2
+202512,Active,P0067,Platinum,AD0067,Advisor_67,Ontario,Toronto,20,5
+202512,Active,P0068,basic,AD0068,Advisor_68,Alberta,Calgary,5,1
+202512,Active,P0069,Platinum,AD0069,Advisor_69,Alberta,Edmonton,22,3
+202512,Active,P0070,basic,AD0070,Advisor_70,Quebec,Quebec City,5,1
+202512,Active,P0071,basic,AD0071,Advisor_71,Alberta,Calgary,4,1
+202512,Active,P0072,Platinum,AD0072,Advisor_72,Alberta,Calgary,27,4
+202512,Active,P0073,Platinum,AD0073,Advisor_73,BC,Vancouver,29,4
+202512,Active,P0074,basic,AD0074,Advisor_74,Ontario,Toronto,7,1
+202512,Active,P0075,basic,AD0075,Advisor_75,Ontario,Mississauga,4,2
+202512,Active,P0076,basic,AD0076,Advisor_76,BC,Vancouver,2,2
+202512,Active,P0077,basic,AD0077,Advisor_77,Quebec,Montreal,3,2
+202512,Active,P0078,Platinum,AD0078,Advisor_78,Ontario,Ottawa,22,3
+202512,Active,P0079,Platinum,AD0079,Advisor_79,Alberta,Edmonton,17,5
+202512,Active,P0080,Platinum,AD0080,Advisor_80,Ontario,Ottawa,21,4
+202512,Active,P0081,basic,AD0081,Advisor_81,Alberta,Red Deer,5,2
+202512,Active,P0082,basic,AD0082,Advisor_82,Quebec,Quebec City,5,2
+202512,Active,P0083,Platinum,AD0083,Advisor_83,BC,Victoria,21,4
+202512,Active,P0084,Platinum,AD0084,Advisor_84,Ontario,Ottawa,23,5
+202512,Active,P0085,Platinum,AD0085,Advisor_85,BC,Vancouver,15,3
+202512,Active,P0086,Platinum,AD0086,Advisor_86,Ontario,Ottawa,24,4
+202512,Active,P0087,basic,AD0087,Advisor_87,Alberta,Edmonton,2,1
+202512,Active,P0088,basic,AD0088,Advisor_88,BC,Vancouver,6,2
+202512,Active,P0089,basic,AD0089,Advisor_89,Ontario,Mississauga,9,2
+202512,Active,P0090,basic,AD0090,Advisor_90,Alberta,Red Deer,5,2
+202512,Active,P0091,Platinum,AD0091,Advisor_91,BC,Vancouver,27,3
+202512,Active,P0092,basic,AD0092,Advisor_92,BC,Vancouver,5,1
+202512,Active,P0093,basic,AD0093,Advisor_93,Ontario,Mississauga,7,2
+202512,Active,P0094,basic,AD0094,Advisor_94,Ontario,Ottawa,3,1
+202512,Active,P0095,basic,AD0095,Advisor_95,Ontario,Mississauga,6,1
+202512,Active,P0096,basic,AD0096,Advisor_96,Alberta,Red Deer,5,1
+202512,Active,P0097,basic,AD0097,Advisor_97,Ontario,Toronto,1,1
+202512,Active,P0098,basic,AD0098,Advisor_98,BC,Victoria,4,2
+202512,Active,P0099,Platinum,AD0099,Advisor_99,BC,Victoria,26,3
+202512,Active,P0100,Platinum,AD0100,Advisor_100,Ontario,Ottawa,24,4
+202512,Active,P0101,Platinum,AD0101,Advisor_101,Ontario,Mississauga,21,3
+202512,Active,P0102,basic,AD0102,Advisor_102,Quebec,Montreal,1,2
+202512,Active,P0103,Platinum,AD0103,Advisor_103,BC,Vancouver,28,4
+202512,Active,P0104,basic,AD0104,Advisor_104,Alberta,Calgary,7,1
+202512,Active,P0105,basic,AD0105,Advisor_105,Quebec,Montreal,6,2
+202512,Active,P0106,Platinum,AD0106,Advisor_106,Ontario,Toronto,18,3
+202512,Active,P0107,basic,AD0107,Advisor_107,Ontario,Ottawa,4,2
+202512,Active,P0108,basic,AD0108,Advisor_108,BC,Vancouver,3,1
+202512,Active,P0109,Platinum,AD0109,Advisor_109,Ontario,Toronto,15,4
+202512,Active,P0110,Platinum,AD0110,Advisor_110,Alberta,Calgary,27,3
+202512,Active,P0111,Platinum,AD0111,Advisor_111,BC,Vancouver,16,5
+202512,Active,P0112,Platinum,AD0112,Advisor_112,Ontario,Ottawa,26,3
+202512,Active,P0113,basic,AD0113,Advisor_113,BC,Victoria,4,2
+202512,Active,P0114,basic,AD0114,Advisor_114,Ontario,Ottawa,2,2
+202512,Active,P0115,basic,AD0115,Advisor_115,Ontario,Toronto,1,1
+202512,Active,P0116,basic,AD0116,Advisor_116,Ontario,Toronto,3,1
+202512,Active,P0117,basic,AD0117,Advisor_117,Alberta,Calgary,5,1
+202512,Active,P0118,Platinum,AD0118,Advisor_118,Alberta,Calgary,15,5
+202512,Active,P0119,basic,AD0119,Advisor_119,BC,Victoria,8,1
+202512,Active,P0120,basic,AD0120,Advisor_120,Ontario,Ottawa,2,2
+202512,Active,P0121,basic,AD0121,Advisor_121,Ontario,Mississauga,3,1
+202512,Active,P0122,basic,AD0122,Advisor_122,Alberta,Calgary,3,2
+202512,Active,P0123,Platinum,AD0123,Advisor_123,Ontario,Toronto,15,5
+202512,Active,P0124,Platinum,AD0124,Advisor_124,Alberta,Edmonton,22,4
+202512,Active,P0125,Platinum,AD0125,Advisor_125,Ontario,Mississauga,24,3
+202512,Active,P0126,basic,AD0126,Advisor_126,BC,Victoria,2,2
+202512,Active,P0127,basic,AD0127,Advisor_127,Ontario,Mississauga,9,1
+202512,Active,P0128,basic,AD0128,Advisor_128,Ontario,Ottawa,4,1
+202512,Active,P0129,Platinum,AD0129,Advisor_129,Quebec,Quebec City,19,4
+202512,Active,P0130,basic,AD0130,Advisor_130,Alberta,Red Deer,8,2
+202512,Active,P0131,basic,AD0131,Advisor_131,Ontario,Toronto,9,2
+202512,Active,P0132,Platinum,AD0132,Advisor_132,Ontario,Mississauga,27,3
+202512,Active,P0133,Platinum,AD0133,Advisor_133,Quebec,Quebec City,18,3
+202512,Active,P0134,Platinum,AD0134,Advisor_134,Quebec,Montreal,19,4
+202512,Active,P0135,basic,AD0135,Advisor_135,Alberta,Calgary,8,1
+202512,Active,P0136,Platinum,AD0136,Advisor_136,Quebec,Quebec City,15,5
+202512,Active,P0137,basic,AD0137,Advisor_137,BC,Victoria,4,1
+202512,Active,P0138,basic,AD0138,Advisor_138,Quebec,Quebec City,1,2
+202512,Active,P0139,Platinum,AD0139,Advisor_139,BC,Victoria,22,5
+202512,Active,P0140,basic,AD0140,Advisor_140,Alberta,Edmonton,5,1
+202512,Active,P0141,basic,AD0141,Advisor_141,Alberta,Red Deer,1,2
+202512,Active,P0142,Platinum,AD0142,Advisor_142,Alberta,Red Deer,27,5
+202512,Active,P0143,basic,AD0143,Advisor_143,Alberta,Calgary,9,1
+202512,Active,P0144,Platinum,AD0144,Advisor_144,Alberta,Edmonton,23,5
+202512,Active,P0145,Platinum,AD0145,Advisor_145,BC,Vancouver,15,4
+202512,Active,P0146,Platinum,AD0146,Advisor_146,BC,Vancouver,28,3
+202512,Active,P0147,basic,AD0147,Advisor_147,Alberta,Calgary,9,2
+202512,Active,P0148,basic,AD0148,Advisor_148,Quebec,Montreal,3,2
+202512,Active,P0149,Platinum,AD0149,Advisor_149,Ontario,Ottawa,18,3
+202512,Active,P0150,Platinum,AD0150,Advisor_150,Alberta,Calgary,23,3
+202512,Active,P0151,basic,AD0151,Advisor_151,Quebec,Quebec City,9,1
+202512,Active,P0152,Platinum,AD0152,Advisor_152,Ontario,Ottawa,26,5
+202512,Active,P0153,Platinum,AD0153,Advisor_153,Alberta,Red Deer,29,4
+202512,Active,P0154,basic,AD0154,Advisor_154,Alberta,Edmonton,4,2
+202512,Active,P0155,basic,AD0155,Advisor_155,BC,Vancouver,5,1
+202512,Active,P0156,Platinum,AD0156,Advisor_156,Ontario,Ottawa,17,3
+202512,Active,P0157,basic,AD0157,Advisor_157,Ontario,Ottawa,9,2
+202512,Active,P0158,basic,AD0158,Advisor_158,Quebec,Quebec City,5,2
+202512,Active,P0159,Platinum,AD0159,Advisor_159,BC,Vancouver,21,3
+202512,Active,P0160,basic,AD0160,Advisor_160,BC,Victoria,9,2
+202512,Active,P0161,Platinum,AD0161,Advisor_161,BC,Vancouver,27,5
+202512,Active,P0162,basic,AD0162,Advisor_162,BC,Vancouver,7,1
+202512,Active,P0163,basic,AD0163,Advisor_163,Ontario,Mississauga,5,2
+202512,Active,P0164,basic,AD0164,Advisor_164,Ontario,Mississauga,7,1
+202512,Active,P0165,Platinum,AD0165,Advisor_165,Alberta,Red Deer,25,3
+202512,Active,P0166,basic,AD0166,Advisor_166,Alberta,Red Deer,2,1
+202512,Active,P0167,Platinum,AD0167,Advisor_167,BC,Victoria,26,5
+202512,Active,P0168,Platinum,AD0168,Advisor_168,BC,Vancouver,24,3
+202512,Active,P0169,Platinum,AD0169,Advisor_169,BC,Victoria,26,4
+202512,Active,P0170,basic,AD0170,Advisor_170,Alberta,Red Deer,6,1
+202512,Active,P0171,basic,AD0171,Advisor_171,Quebec,Quebec City,8,1
+202512,Active,P0172,Platinum,AD0172,Advisor_172,Quebec,Quebec City,23,4
+202512,Active,P0173,basic,AD0173,Advisor_173,Alberta,Red Deer,2,2
+202512,Active,P0174,Platinum,AD0174,Advisor_174,Alberta,Red Deer,27,3
+202512,Active,P0175,basic,AD0175,Advisor_175,Alberta,Edmonton,6,1
+202512,Active,P0176,Platinum,AD0176,Advisor_176,Alberta,Edmonton,22,5
+202512,Active,P0177,basic,AD0177,Advisor_177,Alberta,Calgary,1,2
+202512,Active,P0178,Platinum,AD0178,Advisor_178,Alberta,Edmonton,18,4
+202512,Active,P0179,basic,AD0179,Advisor_179,BC,Victoria,7,1
+202512,Active,P0180,Platinum,AD0180,Advisor_180,BC,Victoria,27,3
+202512,Active,P0181,Platinum,AD0181,Advisor_181,BC,Vancouver,26,4
+202512,Active,P0182,Platinum,AD0182,Advisor_182,BC,Victoria,17,5
+202512,Active,P0183,basic,AD0183,Advisor_183,Alberta,Calgary,6,1
+202512,Active,P0184,basic,AD0184,Advisor_184,Quebec,Quebec City,3,1
+202512,Active,P0185,Platinum,AD0185,Advisor_185,Ontario,Mississauga,28,5
+202512,Active,P0186,basic,AD0186,Advisor_186,Alberta,Red Deer,2,1
+202512,Active,P0187,basic,AD0187,Advisor_187,Ontario,Ottawa,4,2
+202512,Active,P0188,basic,AD0188,Advisor_188,Quebec,Montreal,8,2
+202512,Active,P0189,basic,AD0189,Advisor_189,BC,Vancouver,9,1
+202512,Active,P0190,Platinum,AD0190,Advisor_190,Quebec,Quebec City,15,5
+202512,Active,P0191,Platinum,AD0191,Advisor_191,Alberta,Calgary,27,5
+202512,Active,P0192,basic,AD0192,Advisor_192,BC,Victoria,9,2
+202512,Active,P0193,basic,AD0193,Advisor_193,Alberta,Edmonton,1,1
+202512,Active,P0194,basic,AD0194,Advisor_194,BC,Victoria,8,1
+202512,Active,P0195,Platinum,AD0195,Advisor_195,Ontario,Mississauga,20,3
+202512,Active,P0196,Platinum,AD0196,Advisor_196,Ontario,Toronto,20,3
+202512,Active,P0197,basic,AD0197,Advisor_197,Ontario,Toronto,5,2
+202512,Active,P0198,basic,AD0198,Advisor_198,Quebec,Quebec City,6,2
+202512,Active,P0199,basic,AD0199,Advisor_199,Alberta,Red Deer,5,1
+202512,Active,P0200,basic,AD0200,Advisor_200,Quebec,Montreal,3,2
